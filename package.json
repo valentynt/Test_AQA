@@ -1,0 +1,21 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "main": "test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valentyn",
+  "license": "MIT",
+  "keywords": [],
+  "description": "selenium example",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "log4js": "^6.3.0",
+    "node-fetch": "^2.6.1",
+    "selenium-webdriver": "^4.0.0-alpha.8",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
